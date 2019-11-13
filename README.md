@@ -22,5 +22,5 @@
 	long int giaiThua(int h) // Tính bài toán nhỏ nhất của giai thừa  
 	{  
 		if(h==0) return 1; // Nếu h = 0 thì giá trị trả về bằng 1  
-		else return (h * giaiThua(h-1));   
+		else return (h * giaiThua(h-1)); // Nếu khác 0 thì h * (h-1)   
 	}   
