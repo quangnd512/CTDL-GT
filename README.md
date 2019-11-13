@@ -37,7 +37,16 @@ VD: [Tính giai thừa](https://github.com/quangnd512/CTDL-GT/blob/master/De-quy
 > Chuyển đĩa C từ cọc 2 sang cọc 1  
 > Chuyển đĩa B từ cọc 2 sang cọc 3  
 > Chuyển đĩa C từ cọc 1 sang cọc 3  
+
 VD: [Bài toán hà nội](https://github.com/quangnd512/CTDL-GT/blob/master/Thap-ha-hoi.cpp)  
 
 
 ## Danh sách (list)
+> Các bài toán trên danh sách:  
+> Tạo mới 1 danh sách  
+> Thêm, sửa, xóa một phần tử vào danh sách  
+> Tìm kiếm một phần tử trong danh sách  
+> Sắp xếp thứ tự  
+> Tách 1 danh sách thành nhiều danh sách  
+> Sao chép danh sách  
+> Nhập nhiều danh sách thành nhiều danh sách   
