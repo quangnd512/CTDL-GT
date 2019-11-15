@@ -49,4 +49,23 @@ VD: [Bài toán hà nội](https://github.com/quangnd512/CTDL-GT/blob/master/Tha
 > Sắp xếp thứ tự  
 > Tách 1 danh sách thành nhiều danh sách  
 > Sao chép danh sách  
-> Nhập nhiều danh sách thành nhiều danh sách   
+> Nhập nhiều danh sách thành nhiều danh sách  
+
+- Biểu diễn danh sách bằng mảng:  
+	Ưu điểm: truy cập dễ dàng đến các phần tử  
+	Nhược điểm: Không tối ưu được bộ nhớ  
+
+- Danh sách liên kết  
+	Gồm 2 thành phần:  
+		Nút: chứa dữ liệu  
+		Con trỏ:  để trỏ tới nút kế tiếp  
+		
+- Có 4 loại danh sách liên kết:  
+	+ DS liên kết đơn:
+	+ DS liên kết kép:
+	+ DS liên kết vòng đơn:
+	+ DS liên kết vòng kép:
+	
+## Ngăn xếp (Stack)
+
+	
