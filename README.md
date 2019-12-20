@@ -65,7 +65,7 @@ VD: [Bài toán hà nội](https://github.com/quangnd512/CTDL-GT/blob/master/De-
 	+ DS liên kết kép:
 	+ DS liên kết vòng đơn:
 	+ DS liên kết vòng kép:  
-	<img src="https://i.imgur.com/fc5Szfb.jpg">  
+	<img src="https://i.imgur.com/fc5Szfb.jpg">.  
 	Một danh sách thường cói 2 phần là phần danh sách chứa dữ liệu và vần liên kết chứa con trỏ
 	
 - Ứng dụng của danh sách là công 2 đa thức  
@@ -80,39 +80,39 @@ VD: [Bài toán hà nội](https://github.com/quangnd512/CTDL-GT/blob/master/De-
 		Có đỉnh stack  
 	Đặc tả các task vụ trên stack:  
 		Initialize:  
-			Chức năng: Khởi động stack  
-			Dữ liệu nhập: Không  
-			Dữ liệu xuất: stack top về vị trí ban đầu  
+			+ Chức năng: Khởi động stack  
+			+ Dữ liệu nhập: Không  
+			+ Dữ liệu xuất: stack top về vị trí ban đầu  
 		Empty:
-			Chức năng: Kiểm tra stack có rỗng hay không  
-			Dữ liệu nhập: Không  
-			Dữ liệu xuất: True or False  
+			+ Chức năng: Kiểm tra stack có rỗng hay không  
+			+ Dữ liệu nhập: Không  
+			+ Dữ liệu xuất: True or False  
 		Push:  
-			Chức năng: Thêm nút mới tại đỉnh stack  
-			Dữ liệu nhập: Nút mới  
-			Dữ liệu xuất: Không  
+			+ Chức năng: Thêm nút mới tại đỉnh stack  
+			+ Dữ liệu nhập: Nút mới  
+			+ Dữ liệu xuất: Không  
 		Pop:
-			Chức năng: Xóa nút tại đỉnh stack  
-			Dữ liệu nhập: Không  
-			Dữ liệu xuất: Nút bị xóa  
-			Điều kiện: Stack không bị rỗng  
+			+ Chức năng: Xóa nút tại đỉnh stack  
+			+ Dữ liệu nhập: Không  
+			+ Dữ liệu xuất: Nút bị xóa  
+			+ Điều kiện: Stack không bị rỗng  
 		Stacktop:  
-			Chức năng: Truy xuất nút tại đỉnh stack  
-			Dữ liệu nhập: Không  
-			Dữ liệu xuất: Nút tại đỉnh stack  
-			Điều kiện: stack không bị rỗng  
+			+ Chức năng: Truy xuất nút tại đỉnh stack  
+			+ Dữ liệu nhập: Không  
+			+ Dữ liệu xuất: Nút tại đỉnh stack  
+			+ Điều kiện: stack không bị rỗng  
 		Stacksize:  
-			Chức năng: Xác định số nút hiện có trong stack  
-			Dữ liệu nhập: Không  
-			Dữ liệu xuất: Số nút hiện có trong stack  
+			+ Chức năng: Xác định số nút hiện có trong stack  
+			+ Dữ liệu nhập: Không  
+			+ Dữ liệu xuất: Số nút hiện có trong stack  
 		Clearstack:  
-			Chức năng: Xóa tất cả các nút ở trong stack  
-			Dữ liệu nhập: Không  
-			Dữ liệu xuất: Stack top về vị trí khởi đầu  
+			+ Chức năng: Xóa tất cả các nút ở trong stack  
+			+ Dữ liệu nhập: Không  
+			+ Dữ liệu xuất: Stack top về vị trí khởi đầu  
 		Copystack:  
-			Chức năng: Copy stack thành stack mới  
-			Dữ liệu nhập: Stack nguồn  
-			Dữ liệu xuất: Stack đích giống stack nguồn  
+			+ Chức năng: Copy stack thành stack mới  
+			+ Dữ liệu nhập: Stack nguồn  
+			+ Dữ liệu xuất: Stack đích giống stack nguồn  
 		
 		Đặc điểm của stack:  
 		 + Che dấu thông tin  
