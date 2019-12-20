@@ -65,7 +65,7 @@ VD: [Bài toán hà nội](https://github.com/quangnd512/CTDL-GT/blob/master/Tha
 	+ DS liên kết kép:
 	+ DS liên kết vòng đơn:
 	+ DS liên kết vòng kép:  
-	<img src="https://imgur.com/fc5Szfb">  
+	<img src="https://i.imgur.com/fc5Szfb.jpg">  
 	Một danh sách thường cói 2 phần là phần danh sách chứa dữ liệu và vần liên kết chứa con trỏ
 	
 - Ứng dụng của danh sách là công 2 đa thức  
@@ -88,11 +88,31 @@ VD: [Bài toán hà nội](https://github.com/quangnd512/CTDL-GT/blob/master/Tha
 			Dữ liệu nhập: Không  
 			Dữ liệu xuất: True or False  
 		Push:  
-		Pop:  
+			Chức năng: Thêm nút mới tại đỉnh stack  
+			Dữ liệu nhập: Nút mới  
+			Dữ liệu xuất: Không  
+		Pop:
+			Chức năng: Xóa nút tại đỉnh stack  
+			Dữ liệu nhập: Không  
+			Dữ liệu xuất: Nút bị xóa  
+			Điều kiện: Stack không bị rỗng  
 		Stacktop:  
+			Chức năng: Truy xuất nút tại đỉnh stack  
+			Dữ liệu nhập: Không  
+			Dữ liệu xuất: Nút tại đỉnh stack  
+			Điều kiện: stack không bị rỗng  
 		Stacksize:  
+			Chức năng: Xác định số nút hiện có trong stack  
+			Dữ liệu nhập: Không  
+			Dữ liệu xuất: Số nút hiện có trong stack  
 		Clearstack:  
+			Chức năng: Xóa tất cả các nút ở trong stack  
+			Dữ liệu nhập: Không  
+			Dữ liệu xuất: Stack top về vị trí khởi đầu  
 		Copystack:  
+			Chức năng: Copy stack thành stack mới  
+			Dữ liệu nhập: Stack nguồn  
+			Dữ liệu xuất: Stack đích giống stack nguồn  
 		
 		Đặc điểm của stack:  
 		 + Che dấu thông tin  
@@ -102,5 +122,13 @@ VD: [Bài toán hà nội](https://github.com/quangnd512/CTDL-GT/blob/master/Tha
 
 - Cài đặt stack
 	+ Cài đặt ngăn xếp bằng mảng  
+		B1: Khởi tạo stack  
+		B2: Kiểm tra xem stack có rỗng hay không  
+		B3: Bổ xung 1 phần tử của stack  
 	+ Cài đặt ngăn xếp bằng danh sách liên kết  
-	
+		Đỉnh của stack là đầu của danh sách liên kết (phần tử cuối danh sách)  
+		Phần tử cuối cùng là phần tử null  
+		Kiểm tra xem con trỏ có bằng null hay không  
+		
+		
+## Hàng đợi
