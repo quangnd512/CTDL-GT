@@ -25,7 +25,7 @@
 		if(h==0) return 1; // Nếu h = 0 thì giá trị trả về bằng 1  
 		else return (h * giaiThua(h-1)); // Nếu khác 0 thì h * (h-1)   
 	}   
-VD: [Tính giai thừa](https://github.com/quangnd512/CTDL-GT/blob/master/De-quy-giai-thua.cpp)  
+VD: [Tính giai thừa](https://github.com/quangnd512/CTDL-GT/blob/master/De-quy/Giai-thua.cpp)  
 	
 ### Phương pháp quay lui
 **Bài toán thấp Hà Nội**  
@@ -38,7 +38,7 @@ VD: [Tính giai thừa](https://github.com/quangnd512/CTDL-GT/blob/master/De-quy
 > Chuyển đĩa B từ cọc 2 sang cọc 3  
 > Chuyển đĩa C từ cọc 1 sang cọc 3  
 
-VD: [Bài toán hà nội](https://github.com/quangnd512/CTDL-GT/blob/master/Thap-ha-hoi.cpp)  
+VD: [Bài toán hà nội](https://github.com/quangnd512/CTDL-GT/blob/master/De-quy/Thap-ha-hoi.cpp)  
 
 
 ## Danh sách (list)
