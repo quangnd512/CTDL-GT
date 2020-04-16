@@ -66,9 +66,9 @@ VD: [Bài toán hà nội](https://github.com/quangnd512/CTDL-GT/blob/master/De-
 	+ DS liên kết vòng đơn:
 	+ DS liên kết vòng kép:  
 	<img src="https://i.imgur.com/fc5Szfb.jpg">.  
-	Một danh sách thường cói 2 phần là phần danh sách chứa dữ liệu và vần liên kết chứa con trỏ
+	Một danh sách thường có 2 phần là phần danh sách chứa dữ liệu và vần liên kết chứa con trỏ
 	
-- Ứng dụng của danh sách là công 2 đa thức  
+- Ứng dụng của danh sách là cộng 2 đa thức  
 
 
 ## Ngăn xếp (Stack)
